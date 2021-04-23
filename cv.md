@@ -38,4 +38,10 @@ I want to improve my knowledges in ios-development. My biggest goal is to become
 
 
 
+## Languages 
+* English B-2
+* Turkish C-2
+* Azerbaijani C-2
+* French A-2
+
 
