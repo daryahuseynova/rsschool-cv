@@ -31,5 +31,11 @@ I want to improve my knowledges in ios-development. My biggest goal is to become
 * Auto-layout
 
 
+## Experience
+* Course projects
+* Freelance projects
+* Lots of laboratory projects from college
+
+
 
 
